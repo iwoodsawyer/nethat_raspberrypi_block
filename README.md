@@ -10,3 +10,5 @@ Usage instructions:
 4. Open Simulink model "raspberrypi_ethercat_slave.slx", or if the above optional steps are done open "raspberrypi_ethercat_slave_200bytes.slx" instead.
 5. Open the EtherCAT Slave block and build the netHAT52_RTE Sfunction.
 6. Deploy the model to the Raspberry Pi hardware.
+
+[![View netHAT EtherCAT Slave Block SFunction for Raspberry Pi on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/75243-nethat-ethercat-slave-block-sfunction-for-raspberry-pi)
