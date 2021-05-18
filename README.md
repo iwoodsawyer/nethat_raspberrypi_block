@@ -1,6 +1,7 @@
+# netHAT EtherCAT Slave Block SFunction for Raspberry Pi
+
 [![View netHAT EtherCAT Slave Block SFunction for Raspberry Pi on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/75243-nethat-ethercat-slave-block-sfunction-for-raspberry-pi)
 
-# netHAT EtherCAT Slave Block SFunction for Raspberry Pi
 The example netHAT EtherCAT Slave Driver Block SFunction for Raspberry Pi shows basic usage of the cifX library by transferring 32 bytes of input and output PDO data. Additionally, a configuration file for the netHAT device and netHAT EtherCAT Slave Driver Block SFunction are included to increase the number of input and output PDO data to 200 bytes.
 
 Usage instructions:
